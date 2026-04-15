@@ -20,5 +20,16 @@
     "profilePhoto": "https://telegra.ph/file/24fa902ead26340f3df2c.png",
     "starCoins": 0,
     "lastStarCoinChargeAt": null
+  },
+  {
+    "id": "7baefdef-f242-4f69-839a-4f277c9abaa0",
+    "username": "nose",
+    "email": "danielerik@gmail.com",
+    "profilePhoto": "https://telegra.ph/file/24fa902ead26340f3df2c.png",
+    "starCoins": 0,
+    "lastStarCoinChargeAt": "2026-04-15T00:00:00.000Z",
+    "passwordHash": "dc081e01a148f02956dd08ba45e51f1a201a01badda1145ea14a2a1df46b426d0ba549538e67f42549e3cdf55c7715ca17c2ce2380f9e766bca4d26b5eb2f895",
+    "passwordSalt": "9f83ff1e99ef36c6e9c70ac79e3a2f69",
+    "createdAt": "2026-04-15T19:09:55.559Z"
   }
 ]
