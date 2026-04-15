@@ -5,7 +5,8 @@
     "email": "danielerik051@gmail.com",
     "passwordHash": "d28fe0604cfb506fe34acaf66234c4f0a345db2e15d1cd29293419f3a646642566d33667eb4cb9131fafe9a62aacc4b930d8d9eae531f087cf4ebe0f80134f88",
     "passwordSalt": "2b97c620080f59cb97b585d782af24fa",
-    "createdAt": "2026-04-15T09:05:12.954Z"
+    "createdAt": "2026-04-15T09:05:12.954Z",
+    "profilePhoto": "https://raw.githubusercontent.com/IrokzDal/data/main/1776268487774.jpeg"
   },
   {
     "id": "59ad5c00-1531-4a4b-89b8-e0570d805a1d",
@@ -13,6 +14,7 @@
     "email": "confusion249@gmail.com",
     "passwordHash": "73ce02c73a9c3a721b0f387df741e9b69afb2f45062d8f561f750e97465fcb2562cf2d4d11a5205a58c6074465abe189c91deceb3df2bd756a21393832912d3d",
     "passwordSalt": "960df3a80ecf0979f78bab3c36037f70",
-    "createdAt": "2026-04-15T15:13:43.651Z"
+    "createdAt": "2026-04-15T15:13:43.651Z",
+    "profilePhoto": "https://telegra.ph/file/24fa902ead26340f3df2c.png"
   }
 ]
