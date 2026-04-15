@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "81750211-2680-4f04-a042-35fdc5e220dd",
+    "username": "Daniel",
+    "email": "danielerik051@gmail.com",
+    "passwordHash": "02aee0bc7bb3a232b7deb17c8d15ee07a9e35e76a53d35ff150e906836a5839e77aecc8012e4c670f893231d088e61f41ad2605d0856593d40fdc3e9a5fbe1ee",
+    "passwordSalt": "413b5b684a1e3f8298ac41d7d2a53b7e",
+    "createdAt": "2026-04-15T08:57:35.539Z"
+  }
+]
