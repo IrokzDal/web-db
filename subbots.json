@@ -1,7 +1,9 @@
 {
-  "totalBots": 1,
-  "totalSubBots": 0,
+  "totalBots": 2,
+  "totalSubBots": 1,
   "mainBot": "50664312700@s.whatsapp.net",
-  "timestamp": 1777326880099,
-  "activos": []
+  "timestamp": 1777327180099,
+  "activos": [
+    "5217971127906@s.whatsapp.net"
+  ]
 }
