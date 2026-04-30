@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "c43310a5-1146-4478-a4f3-51e8b8d9ecb4",
+    "username": "danielerik",
+    "email": "danielerik051@gmail.com",
+    "profilePhoto": "https://telegra.ph/file/24fa902ead26340f3df2c.png",
+    "starCoins": 0,
+    "lastStarCoinChargeAt": "2026-04-30T00:00:00.000Z",
+    "pairingSession": {
+      "phoneNumber": null,
+      "connected": false,
+      "jid": null,
+      "requestedAt": null,
+      "connectedAt": null,
+      "lockNewPairCode": false
+    },
+    "passwordHash": "714c6b747cf17ba8eb9654ff45b851dcb282f9d6573a325bba8b689f81a61ba56485a6d25d248d988332e9857776ed5412a37045b1a07dca1e4fc1211abfc157",
+    "passwordSalt": "9b0299dca54bcaa4af549cfc4476bdfd",
+    "createdAt": "2026-04-30T07:56:46.876Z"
+  }
+]
