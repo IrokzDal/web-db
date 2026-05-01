@@ -1,8 +1,8 @@
 {
-  "totalBots": 354,
-  "totalSubBots": 353,
+  "totalBots": 353,
+  "totalSubBots": 352,
   "mainBot": "5218261085309@s.whatsapp.net",
-  "timestamp": 1777605554851,
+  "timestamp": 1777605854851,
   "activos": [
     "2250710146939@s.whatsapp.net",
     "240222299621@s.whatsapp.net",
@@ -72,7 +72,6 @@
     "51916536057@s.whatsapp.net",
     "51931350789@s.whatsapp.net",
     "51917881137@s.whatsapp.net",
-    "51949176437@s.whatsapp.net",
     "51933711765@s.whatsapp.net",
     "51954061142@s.whatsapp.net",
     "51910200021@s.whatsapp.net",
@@ -144,7 +143,6 @@
     "5215620766227@s.whatsapp.net",
     "5215549648456@s.whatsapp.net",
     "5215644155176@s.whatsapp.net",
-    "5215643916304@s.whatsapp.net",
     "5216621398196@s.whatsapp.net",
     "5215648396710@s.whatsapp.net",
     "5215621732867@s.whatsapp.net",
@@ -166,7 +164,6 @@
     "5217891131293@s.whatsapp.net",
     "5217717557672@s.whatsapp.net",
     "5217841456200@s.whatsapp.net",
-    "5217441059443@s.whatsapp.net",
     "5218311834422@s.whatsapp.net",
     "5217712647072@s.whatsapp.net",
     "5218334358922@s.whatsapp.net",
@@ -302,7 +299,6 @@
     "573222321651@s.whatsapp.net",
     "573233901542@s.whatsapp.net",
     "584142423346@s.whatsapp.net",
-    "584241665312@s.whatsapp.net",
     "573244062569@s.whatsapp.net",
     "573506503755@s.whatsapp.net",
     "573226422271@s.whatsapp.net",
@@ -317,7 +313,6 @@
     "59168636243@s.whatsapp.net",
     "584241978214@s.whatsapp.net",
     "59160827476@s.whatsapp.net",
-    "584246842214@s.whatsapp.net",
     "584163515724@s.whatsapp.net",
     "584147689702@s.whatsapp.net",
     "584245670231@s.whatsapp.net",
@@ -356,6 +351,10 @@
     "50253303285@s.whatsapp.net",
     "5215574959652@s.whatsapp.net",
     "50376522722@s.whatsapp.net",
-    "5217661038771@s.whatsapp.net"
+    "5217661038771@s.whatsapp.net",
+    "5217441059443@s.whatsapp.net",
+    "584246842214@s.whatsapp.net",
+    "5215643916304@s.whatsapp.net",
+    "584241665312@s.whatsapp.net"
   ]
 }
