@@ -1,8 +1,8 @@
 {
-  "totalBots": 363,
-  "totalSubBots": 362,
+  "totalBots": 362,
+  "totalSubBots": 361,
   "mainBot": "5218261085309@s.whatsapp.net",
-  "timestamp": 1777809488635,
+  "timestamp": 1777809788635,
   "activos": [
     "12134619847@s.whatsapp.net",
     "18099611335@s.whatsapp.net",
@@ -50,7 +50,6 @@
     "50664192639@s.whatsapp.net",
     "50583645001@s.whatsapp.net",
     "50686066981@s.whatsapp.net",
-    "50671430083@s.whatsapp.net",
     "50763367959@s.whatsapp.net",
     "50371532878@s.whatsapp.net",
     "50764812602@s.whatsapp.net",
@@ -64,7 +63,6 @@
     "51907235833@s.whatsapp.net",
     "50761803843@s.whatsapp.net",
     "50586618048@s.whatsapp.net",
-    "51900158882@s.whatsapp.net",
     "51912236244@s.whatsapp.net",
     "51916420737@s.whatsapp.net",
     "51918312452@s.whatsapp.net",
@@ -200,10 +198,8 @@
     "5351387191@s.whatsapp.net",
     "5219983996709@s.whatsapp.net",
     "5219994969187@s.whatsapp.net",
-    "5219984620104@s.whatsapp.net",
     "5350046561@s.whatsapp.net",
     "5491168407514@s.whatsapp.net",
-    "5492964527639@s.whatsapp.net",
     "5491151203218@s.whatsapp.net",
     "5493456595067@s.whatsapp.net",
     "5491173686202@s.whatsapp.net",
@@ -221,7 +217,6 @@
     "5491126072407@s.whatsapp.net",
     "5491127277300@s.whatsapp.net",
     "5492284547776@s.whatsapp.net",
-    "5491164702485@s.whatsapp.net",
     "5491170612103@s.whatsapp.net",
     "5493582597966@s.whatsapp.net",
     "5492612787513@s.whatsapp.net",
@@ -342,7 +337,6 @@
     "573022668915@s.whatsapp.net",
     "593980312272@s.whatsapp.net",
     "50376522722@s.whatsapp.net",
-    "5217778702636@s.whatsapp.net",
     "5212201492438@s.whatsapp.net",
     "5217681104869@s.whatsapp.net",
     "5492392617664@s.whatsapp.net",
@@ -365,6 +359,11 @@
     "573017990275@s.whatsapp.net",
     "51953857675@s.whatsapp.net",
     "573133490956@s.whatsapp.net",
-    "5218331383853@s.whatsapp.net"
+    "5218331383853@s.whatsapp.net",
+    "50671430083@s.whatsapp.net",
+    "5219984620104@s.whatsapp.net",
+    "5217778702636@s.whatsapp.net",
+    "5491164702485@s.whatsapp.net",
+    "51900158882@s.whatsapp.net"
   ]
 }
